@@ -10,11 +10,13 @@ public class Name{//define a class called name
         System.out.print("Enter your name:");
         String Data=scanner.nextLine();
         System.out.println("Your name  is: "+Data);
-        scanner.close();
-      
-      //boolean
+ //boolean
         boolean isStudent=scanner.nextBoolean();
         System.out.println("Are you a student? " + isStudent);
       
+        
+        scanner.close();
+      
+     
     }
 }
