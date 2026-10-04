@@ -12,13 +12,7 @@ public class Name {
         String Data = scanner.nextLine();
 
         System.out.println("Your name is: " + Data);
-
-        // boolean
-        System.out.print("Are you a student? (true/false): ");
-        boolean isStudent = scanner.nextBoolean();
-
-        System.out.println("Are you a student? " + isStudent);
-
+        
         scanner.close();
     }
 }
