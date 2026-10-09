@@ -1,7 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-
 public class Gamerandom {
     public static void main(String[] args){
         Random random=new Random();
