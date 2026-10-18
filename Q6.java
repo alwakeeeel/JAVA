@@ -5,7 +5,7 @@ public class Q6 {
         
         //sheet1:
 
-        int number,n1,n2,n3,n4,sum;
+        number,n1,n2,n3,n4,sum;
 
         Scanner scanner=new Scanner(System.in);
 
