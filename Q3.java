@@ -18,6 +18,12 @@ public class Q3{
         int year3=pop+(change*3);
         int year4=pop+(change*4);
         int year5=pop+(change*5);
-    
+
+        System.out.println("Year 1: " + year1);
+        System.out.println("Year 2: " + year2);
+        System.out.println("Year 3: " + year3);
+        System.out.println("Year 4: " + year4);
+        System.out.println("Year 5: " + year5);
+
     }
 }
